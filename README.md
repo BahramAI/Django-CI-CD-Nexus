@@ -1,2 +1,2 @@
-# Django-CI-CD-Nexus--......
+Django-CI-CD-Nexus
 یک دوره کد شدیدا کامل و پروژه محور 
